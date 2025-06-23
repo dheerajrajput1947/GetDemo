@@ -1,0 +1,9 @@
+# Created at 2025-06-17T16:48:55.213
+An unknown server-side error occurred while processing the command. Original error: 'GET /screenshot' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [71640681-451a-4ff7-9723-397644f47068, screenshot {}]
+Capabilities {appium:app: C:\Users\admin\eclipse-work..., appium:appActivity: com.androidsample.generalst..., appium:appPackage: com.androidsample.generalstore, appium:automationName: UIAutomator2, appium:chromedriverExecutable: C:\Users\admin\Downloads\Ap..., appium:databaseEnabled: false, appium:desired: {app: C:\Users\admin\eclipse-work..., automationName: UIAutomator2, chromedriverExecutable: C:\Users\admin\Downloads\Ap..., deviceName: Pixel 5, platformName: ANDROID}, appium:deviceApiLevel: 36, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone64_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 16, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:viewportRect: {height: 2195, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 71640681-451a-4ff7-9723-397644f47068
+
