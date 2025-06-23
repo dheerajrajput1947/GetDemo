@@ -34,10 +34,7 @@ public class CoreJavaBrushUp1 {
 		for (int i = 0; i < name.length; i++) {
 			System.out.println(name[i]);
 		}
-		// enhanced for loop
-		for (String s : name) {
-			System.out.println(s);
-		}
+		
 
 	}
 }
