@@ -68,6 +68,12 @@ AndroidDriver driver;
 	    	acceptButton.click();
 	    }
 	    
+	    public void acceptTermsCondition1() {
+	    	lognPressAction(terms);
+	    	acceptButton.click();
+	    }
+
+	    
 	    public Double getFormattedAmount(String amount)
 	    {
 	    	Double price = Double.parseDouble(amount.substring(1));

@@ -30,6 +30,8 @@ AndroidDriver driver;
 	{
 		addToCart.get(index).click();
 	}
+	
+
 
 	public CartPage goToCartPage() throws InterruptedException
 	{

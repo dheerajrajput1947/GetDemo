@@ -35,6 +35,11 @@ public class CoreJavaBrushUp1 {
 			System.out.println(name[i]);
 		}
 		
+		String[] name1 = { "Rahul", "Shetty", "Selenium" };
+		for (int i = 0; i < name.length; i++) {
+			System.out.println(name[i]);
+		}
+		
 
 	}
 }
